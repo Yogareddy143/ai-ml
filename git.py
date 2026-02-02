@@ -8,3 +8,8 @@ print(y-z)
 print(x*y)
 print((x+y))
 print(z)
+
+
+list = [10, 20, 30, 40]
+
+print("nums:", list)
