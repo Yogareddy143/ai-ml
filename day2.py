@@ -5,5 +5,8 @@ print(a)
 print(b)
 print(c)
 
-dict = {"name" : "yogi"}
+dict = {
+    "name" : "yogi",
+    "age" : 23
+}
 print(dict)
