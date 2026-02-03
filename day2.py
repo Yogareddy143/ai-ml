@@ -7,6 +7,7 @@ print(c)
 
 dict = {
     "name" : "yogi",
-    "age" : 23
+    "age" : 23,
+    "cgpa" : 8.3
 }
 print(dict)
